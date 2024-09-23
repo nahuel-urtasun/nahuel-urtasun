@@ -1,3 +1,8 @@
-#Hello I'm Nahuel
+# Hello I'm Nahuel
 
-##I'm a ReadME file
+## About me
+I like cats and learning JAVA.
+
+## Contact me
+Let's connect and talk about cats.
+
