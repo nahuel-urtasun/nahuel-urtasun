@@ -1,10 +1,3 @@
-# Hello I'm Nahuel
-
-## About me
-I like cats and learning JAVA.
-
-## Contact me
-Let's connect and talk about cats.
-I like beer too.
-
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
