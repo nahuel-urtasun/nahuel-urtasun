@@ -1,10 +1,5 @@
-# Hello I'm Nahuel
+## Technologies
 
-## About me
-I like cats and learning JAVA.
-
-## Contact me
-Let's connect and talk about cats.
-I like beer too.
-
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
