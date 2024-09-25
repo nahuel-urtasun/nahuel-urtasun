@@ -1,4 +1,4 @@
-# Nahuel Urtasun - IT Support Specialist
+# Nahuel Urtasun 
 
 ## About me
 I'm an IT Support Specialist with a passion for solving tech challenges and breaking down complex issues into simple solutions. Whether it’s troubleshooting or handling more advanced technical problems, I focus on helping people cut through confusion to find clear, effective answers.
