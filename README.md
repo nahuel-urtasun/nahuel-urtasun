@@ -1,4 +1,2 @@
-## Hobbies
-- Dancing: ...
-
-
+#Hobbies
+I like cats.
